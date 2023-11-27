@@ -1,0 +1,66 @@
+Partlist exported from /home/johannes/Projekte/Projektarbeit/Projektarbeit Verstärker/PCBs/Steuerungs-Modul/v2.0/Steuerungsmodul.sch at 2/3/23 11:05 AM
+
+Part            Value           Device          Package      Description                         
++-5V/-+15V_TEST                 JP4E            JP4          JUMPER                              
+0°-180°                         JMP3            JMP3         Jumper 3-polig                      
+5V              5V    GND   -5V MKDS3/3_5,08    MKDS3/3_5,08 Leiterplattenklemme 3-polig         
+15V             15V GND -15V    MKDS3/3_5,08    MKDS3/3_5,08 Leiterplattenklemme 3-polig         
+ADD                             JMP2            JMP2         Jumper 2-polig                      
+BIN1            1A0 1A1         JMP2            JMP2         Jumper 2-polig                      
+BIN2            2A0 2A1         JMP2            JMP2         Jumper 2-polig                      
+    
+C7              1uF             C-EU025-025X050 C025-025X050 CAPACITOR, European symbol       !smd c7,c9,c10,c11   
+         
+C9              1uF             C-EU025-025X050 C025-025X050 CAPACITOR, European symbol          
+C10             1uF             C-EU025-025X050 C025-025X050 CAPACITOR, European symbol          
+C11             1uF             C-EU025-025X050 C025-025X050 CAPACITOR, European symbol          
+        
+C36             100µF           CPOL-EUE2.5-6   E2,5-6       POLARIZED CAPACITOR, European symbol
+   
+C39             100µF           CPOL-EUE2.5-6   E2,5-6       POLARIZED CAPACITOR, European symbol
+
+CS              CS1 CS2         JMP2            JMP2         Jumper 2-polig                      
+GND_TEST                        JP4E            JP4          JUMPER                              
+IC1             TL072D          TL072D          SO08         OP AMP                              
+IC2             TL072D          TL072D          SO08         OP AMP                              
+IC3             TL072D          TL072D          SO08         OP AMP                              
+IC4             TL072D          TL072D          SO08         OP AMP                              
+IC5             TL072D          TL072D          SO08         OP AMP                              
+IC6             TL072D          TL072D          SO08         OP AMP                              
+IN1                             MKDS3/3_5,08    MKDS3/3_5,08 Leiterplattenklemme 3-polig         
+IN2                             MKDS3/3_5,08    MKDS3/3_5,08 Leiterplattenklemme 3-polig         
+IN3                             MKDS3/3_5,08    MKDS3/3_5,08 Leiterplattenklemme 3-polig         
+IN4                             MKDS3/3_5,08    MKDS3/3_5,08 Leiterplattenklemme 3-polig         
+IN5                             MKDS3/3_5,08    MKDS3/3_5,08 Leiterplattenklemme 3-polig         
+IN6                             MKDS3/3_5,08    MKDS3/3_5,08 Leiterplattenklemme 3-polig         
+IN7                             MKDS3/3_5,08    MKDS3/3_5,08 Leiterplattenklemme 3-polig         
+L2_PIN                          PINHD-1X1       1X01         PIN HEADER                          
+L_FILTER_JPR                    JMP3            JMP3         Jumper 3-polig                      
+MIC                             JMP2            JMP2         Jumper 2-polig                      
+OUTPUT                          MA04-2          MA04-2       PIN HEADER                          
+POT1            MCP42010_SO14   MCP42010_SO14   SO14                                             
+POT2            MCP42010_SO14   MCP42010_SO14   SO14                                             
+POT_L_OPT                       JMP3            JMP3         Jumper 3-polig                      
+POT_R_OPT                       JMP3            JMP3         Jumper 3-polig                      
+POT_SUB_1_OPT                   JMP3            JMP3         Jumper 3-polig                      
+POT_SUB_2_OPT                   JMP3            JMP3         Jumper 3-polig                      
+             
+R2_PIN                          PINHD-1X1       1X01         PIN HEADER                          
+           
+R_FILTER_JPR                    JMP3            JMP3         Jumper 3-polig                      
+SPI_CLK                         JP3Q            JP3Q         JUMPER                              
+SW1             4052            5042_SO16_NEU   SO-16                                            
+SW2             4052            5042_SO16_NEU   SO-16                                            
+TP1             TPB2,54         TPB2,54         B2,54        Test pad                            
+TP2             TPB2,54         TPB2,54         B2,54        Test pad                            
+TP3             TPB2,54         TPB2,54         B2,54        Test pad                            
+TP4             TPB2,54         TPB2,54         B2,54        Test pad                            
+TP5             TPB2,54         TPB2,54         B2,54        Test pad                            
+TP6             TPB2,54         TPB2,54         B2,54        Test pad                            
+TP7             TPB2,54         TPB2,54         B2,54        Test pad                            
+TP8             TPB2,54         TPB2,54         B2,54        Test pad                            
+TP9             TPB2,54         TPB2,54         B2,54        Test pad                            
+TP10            TPB2,54         TPB2,54         B2,54        Test pad                            
+TP11            TPB2,54         TPB2,54         B2,54        Test pad                            
+TP12            TPB2,54         TPB2,54         B2,54        Test pad                            
+TP13            TPB2,54         TPB2,54         B2,54        Test pad                            

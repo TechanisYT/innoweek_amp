@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-01-20T09:29:16Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Steuerungsmodul"
+        },
+        "Owner": "Johannes Melcher <johannes.melcher@student.htl-rankweil.at>",
+        "Size": {
+            "X": 130,
+            "Y": 70
+        }
+    }
+}

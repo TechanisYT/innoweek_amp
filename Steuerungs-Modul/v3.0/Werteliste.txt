@@ -1,0 +1,36 @@
+Partlist exported from /home/johannes/Projekte/Projektarbeit/Projektarbeit Verstärker/PCBs/Steuerungs-Modul/v2.0/Steuerungsmodul.sch at 2/3/23 11:13 AM
+
+Qty Value           Device          Parts                                                                                  
+2                   JMP2            ADD, MIC                                                                               
+7                   JMP3            0°-180°, L_FILTER_JPR, POT_L_OPT, POT_R_OPT, POT_SUB_1_OPT, POT_SUB_2_OPT, R_FILTER_JPR
+1                   JP3Q            SPI_CLK                                                                                
+2                   JP4E            +-5V/-+15V_TEST, GND_TEST                                                              
+1                   MA04-2          OUTPUT                                                                                 
+7                   MKDS3/3_5,08    IN1, IN2, IN3, IN4, IN5, IN6, IN7                                                      
+2                   PINHD-1X1       L2_PIN, R2_PIN                                                                         
+1   1A0 1A1         JMP2            BIN1                                                                                   
+9   1M              R-EU_M0805      R6, R7, R8, R9, R12, R13, R16, R17, R38                                                
+4   1uF             C-EU025-025X050 C7, C9, C10, C11                                                                       
+6   1uF             C-EUC0805       C5, C6, C8, C37, C42, C43                                                              
+1   1µ              C-EUC0805       C4                                                                                     
+1   2A0 2A1         JMP2            BIN2                                                                                   
+1   5V    GND   -5V MKDS3/3_5,08    5V                                                                                     
+6   10k             R-EU_M0805      R2, R4, R29, R36, R37, R42                                                             
+2   11k             R-EU_M0805      R14, R23                                                                               
+1   15V GND -15V    MKDS3/3_5,08    15V                                                                                    
+1   18k             R-EU_M0805      R35                                                                                    
+2   22k             R-EU_M0805      R1, R22                                                                                
+1   30k             R-EU_M0805      R34                                                                                    
+3   47k             R-EU_M0805      R11, R18, R25                                                                          
+1   47n             C-EUC0805       C24                                                                                    
+3   56k             R-EU_M0805      R3, R5, R43                                                                            
+10  100k            R-EU_M0805      R10, R15, R19, R20, R21, R24, R27, R28, R39, R44                                       
+3   100n            C-EUC0805       C3, C23, C50                                                                           
+16  100nF           C-EUC0805       C1, C2, C12, C13, C14, C17, C18, C25, C26, C27, C28, C29, C30, C31, C32, C41           
+2   100µF           CPOL-EUE2.5-6   C36, C39                                                                               
+2   220pF           C-EUC0805       C35, C40                                                                               
+2   4052            5042_SO16_NEU   SW1, SW2                                                                               
+1   CS1 CS2         JMP2            CS                                                                                     
+2   MCP42010_SO14   MCP42010_SO14   POT1, POT2                                                                             
+6   TL072D          TL072D          IC1, IC2, IC3, IC4, IC5, IC6                                                           
+13  TPB2,54         TPB2,54         TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10, TP11, TP12, TP13                    

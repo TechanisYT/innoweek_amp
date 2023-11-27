@@ -1,0 +1,59 @@
+Stückliste exportiert aus C:/Users/fsche/OneDrive - HTL-Rankweil/3CHEL/Innovativwoche/Projektarbeit Verstärker/PCBs/Mono-Modul/Mono_Audio_Amplifier_Scheffknecht_Melcher.sch am 06.02.2023 08:45
+
+Bauteil Wert       Device             Package        Description                         
+2SA1930 2SA1930    2SC1306            TO220BV        NPN Transistor Final RF Power Outupt
+2SA1943 2SA1943    PNP_TO264          TO264                                              
+2SC5171 2SC5171    2SC1306            TO220BV        NPN Transistor Final RF Power Outupt
+2SC5200 2SC5200    NPN_TO264          TO264                                              
+BD139   BD139      -NPN-TO126V        TO126V         NPN Transistror                     
+C1      10uF       C-EUC0805          C0805          CAPACITOR, European symbol          
+C2      47µ        CPOL-EUE2.5-6      E2,5-6         POLARIZED CAPACITOR, European symbol
+C3      100µF      CPOL-EUE2.5-7      E2,5-7         POLARIZED CAPACITOR, European symbol
+C4      33pF       C-EUC0805          C0805          CAPACITOR, European symbol          
+C5      100pF      C-EUC0805          C0805          CAPACITOR, European symbol          
+C6      47µ        CPOL-EUE2.5-6      E2,5-6         POLARIZED CAPACITOR, European symbol
+C7      100nF      C-EUC0805          C0805          CAPACITOR, European symbol          
+C8      100nF      C-EUC0805          C0805          CAPACITOR, European symbol          
+C9      100nF      C-EUC0805          C0805          CAPACITOR, European symbol          
+C10     100nF      C-EUC0805          C0805          CAPACITOR, European symbol          
+C11     100nF      C-EUC0805          C0805          CAPACITOR, European symbol          
+C12     470uF      CPOL-EUE3.5-8      E3,5-8         POLARIZED CAPACITOR, European symbol
+C13     470uF      CPOL-EUE3.5-8      E3,5-8         POLARIZED CAPACITOR, European symbol
+D1      1N4148     1N4148DO35-7       DO35-7         DIODE                               
+K1      BC557B     BC557B             TO92-EBC       PNP Transistror                     
+K2      BC557B     BC557B             TO92-EBC       PNP Transistror                     
+K3      BC547B     BC547-NPN-TO92-CBE TO92-CBE       NPN Transistror                     
+K4      BC547B     BC547-NPN-TO92-CBE TO92-CBE       NPN Transistror                     
+K5      BC557B     BC557B             TO92-EBC       PNP Transistror                     
+K6      BC557B     BC557B             TO92-EBC       PNP Transistror                     
+K8      BC547B     BC547-NPN-TO92-CBE TO92-CBE       NPN Transistror                     
+L1      2.3uH      L-EUTJ3-U2         TJ3-U2         INDUCTOR, European symbol           
+P1      Rot        LED5MM             LED5MM         LED                                 
+R1      39k        R-EU_R0805         R0805          RESISTOR, European symbol           
+R2      5k         TRIM_EU-S64W       S64W           POTENTIOMETER                       
+R3      39k        R-EU_R0805         R0805          RESISTOR, European symbol           
+R4      10k        R-EU_R0805         R0805          RESISTOR, European symbol           
+R5      10k        R-EU_R0805         R0805          RESISTOR, European symbol           
+R6      100R       R-EU_R0805         R0805          RESISTOR, European symbol           
+R7      100R       R-EU_R0805         R0805          RESISTOR, European symbol           
+R8      68R        R-EU_R0805         R0805          RESISTOR, European symbol           
+R9      68R        R-EU_R0805         R0805          RESISTOR, European symbol           
+R10     10k        R-EU_R0805         R0805          RESISTOR, European symbol           
+R11     47k        R-EU_R0805         R0805          RESISTOR, European symbol           
+R12     330R       R-EU_R0805         R0805          RESISTOR, European symbol           
+R13     1.8k       R-EU_R0805         R0805          RESISTOR, European symbol           
+R14     150R       R-EU_R0805         R0805          RESISTOR, European symbol           
+R15     1.5k       R-EU_R0805         R0805          RESISTOR, European symbol           
+R16     100R       R-EU_R0805         R0805          RESISTOR, European symbol           
+R17     1k         TRIM_EU-S64W       S64W           POTENTIOMETER                       
+R18     68R        R-EU_R0805         R0805          RESISTOR, European symbol           
+R19     10k        R-EU_R0805         R0805          RESISTOR, European symbol           
+R20     22R        R-EU_R0805         R0805          RESISTOR, European symbol           
+R23     10R        R-EU_R0805         R0805          RESISTOR, European symbol           
+R24     10R        R-EU_R0805         R0805          RESISTOR, European symbol           
+R25     22R        R-EU_R0805         R0805          RESISTOR, European symbol           
+U$1     AXIAL_R_5W AXIAL_R_5W         AXIAL_RESISTOR                                     
+U$2     AXIAL_R_5W AXIAL_R_5W         AXIAL_RESISTOR                                     
+X1      out        MKDS3/2_5,08       MKDS3/2_5,08   Leiterplattenklemme 2-polig         
+X3      GND Inp    JMP2               JMP2           Jumper 2-polig                      
+X4      Power      MKDS3/3_5,08       MKDS3/3_5,08   Leiterplattenklemme 3-polig         

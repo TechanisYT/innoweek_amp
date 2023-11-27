@@ -1,0 +1,125 @@
+Partlist exported from /home/johannes/Projekte/Projektarbeit/Projektarbeit Verstärker/PCBs/Steuerungs-Modul/v2.0/Steuerungsmodul.sch at 2/3/23 11:05 AM
+
+Part            Value           Device          Package      Description                         
++-5V/-+15V_TEST                 JP4E            JP4          JUMPER                              
+0°-180°                         JMP3            JMP3         Jumper 3-polig                      
+5V              5V    GND   -5V MKDS3/3_5,08    MKDS3/3_5,08 Leiterplattenklemme 3-polig         
+15V             15V GND -15V    MKDS3/3_5,08    MKDS3/3_5,08 Leiterplattenklemme 3-polig         
+ADD                             JMP2            JMP2         Jumper 2-polig                      
+BIN1            1A0 1A1         JMP2            JMP2         Jumper 2-polig                      
+BIN2            2A0 2A1         JMP2            JMP2         Jumper 2-polig                      
+C1              100nF           C-EUC0805       C0805        CAPACITOR, European symbol          
+C2              100nF           C-EUC0805       C0805        CAPACITOR, European symbol          
+C3              100n            C-EUC0805       C0805        CAPACITOR, European symbol          
+C4              1µ              C-EUC0805       C0805        CAPACITOR, European symbol          
+C5              1uF             C-EUC0805       C0805        CAPACITOR, European symbol          
+C6              1uF             C-EUC0805       C0805        CAPACITOR, European symbol          
+C7              1uF             C-EU025-025X050 C025-025X050 CAPACITOR, European symbol          
+C8              1uF             C-EUC0805       C0805        CAPACITOR, European symbol          
+C9              1uF             C-EU025-025X050 C025-025X050 CAPACITOR, European symbol          
+C10             1uF             C-EU025-025X050 C025-025X050 CAPACITOR, European symbol          
+C11             1uF             C-EU025-025X050 C025-025X050 CAPACITOR, European symbol          
+C12             100nF           C-EUC0805       C0805        CAPACITOR, European symbol          
+C13             100nF           C-EUC0805       C0805        CAPACITOR, European symbol          
+C14             100nF           C-EUC0805       C0805        CAPACITOR, European symbol          
+C17             100nF           C-EUC0805       C0805        CAPACITOR, European symbol          
+C18             100nF           C-EUC0805       C0805        CAPACITOR, European symbol          
+C23             100n            C-EUC0805       C0805        CAPACITOR, European symbol          
+C24             47n             C-EUC0805       C0805        CAPACITOR, European symbol          
+C25             100nF           C-EUC0805       C0805        CAPACITOR, European symbol          
+C26             100nF           C-EUC0805       C0805        CAPACITOR, European symbol          
+C27             100nF           C-EUC0805       C0805        CAPACITOR, European symbol          
+C28             100nF           C-EUC0805       C0805        CAPACITOR, European symbol          
+C29             100nF           C-EUC0805       C0805        CAPACITOR, European symbol          
+C30             100nF           C-EUC0805       C0805        CAPACITOR, European symbol          
+C31             100nF           C-EUC0805       C0805        CAPACITOR, European symbol          
+C32             100nF           C-EUC0805       C0805        CAPACITOR, European symbol          
+C35             220pF           C-EUC0805       C0805        CAPACITOR, European symbol          
+C36             100µF           CPOL-EUE2.5-6   E2,5-6       POLARIZED CAPACITOR, European symbol
+C37             1uF             C-EUC0805       C0805        CAPACITOR, European symbol          
+C39             100µF           CPOL-EUE2.5-6   E2,5-6       POLARIZED CAPACITOR, European symbol
+C40             220pF           C-EUC0805       C0805        CAPACITOR, European symbol          
+C41             100nF           C-EUC0805       C0805        CAPACITOR, European symbol          
+C42             1uF             C-EUC0805       C0805        CAPACITOR, European symbol          
+C43             1uF             C-EUC0805       C0805        CAPACITOR, European symbol          
+C50             100n            C-EUC0805       C0805        CAPACITOR, European symbol          
+CS              CS1 CS2         JMP2            JMP2         Jumper 2-polig                      
+GND_TEST                        JP4E            JP4          JUMPER                              
+IC1             TL072D          TL072D          SO08         OP AMP                              
+IC2             TL072D          TL072D          SO08         OP AMP                              
+IC3             TL072D          TL072D          SO08         OP AMP                              
+IC4             TL072D          TL072D          SO08         OP AMP                              
+IC5             TL072D          TL072D          SO08         OP AMP                              
+IC6             TL072D          TL072D          SO08         OP AMP                              
+IN1                             MKDS3/3_5,08    MKDS3/3_5,08 Leiterplattenklemme 3-polig         
+IN2                             MKDS3/3_5,08    MKDS3/3_5,08 Leiterplattenklemme 3-polig         
+IN3                             MKDS3/3_5,08    MKDS3/3_5,08 Leiterplattenklemme 3-polig         
+IN4                             MKDS3/3_5,08    MKDS3/3_5,08 Leiterplattenklemme 3-polig         
+IN5                             MKDS3/3_5,08    MKDS3/3_5,08 Leiterplattenklemme 3-polig         
+IN6                             MKDS3/3_5,08    MKDS3/3_5,08 Leiterplattenklemme 3-polig         
+IN7                             MKDS3/3_5,08    MKDS3/3_5,08 Leiterplattenklemme 3-polig         
+L2_PIN                          PINHD-1X1       1X01         PIN HEADER                          
+L_FILTER_JPR                    JMP3            JMP3         Jumper 3-polig                      
+MIC                             JMP2            JMP2         Jumper 2-polig                      
+OUTPUT                          MA04-2          MA04-2       PIN HEADER                          
+POT1            MCP42010_SO14   MCP42010_SO14   SO14                                             
+POT2            MCP42010_SO14   MCP42010_SO14   SO14                                             
+POT_L_OPT                       JMP3            JMP3         Jumper 3-polig                      
+POT_R_OPT                       JMP3            JMP3         Jumper 3-polig                      
+POT_SUB_1_OPT                   JMP3            JMP3         Jumper 3-polig                      
+POT_SUB_2_OPT                   JMP3            JMP3         Jumper 3-polig                      
+R1              22k             R-EU_M0805      M0805        RESISTOR, European symbol           
+R2              10k             R-EU_M0805      M0805        RESISTOR, European symbol           
+R2_PIN                          PINHD-1X1       1X01         PIN HEADER                          
+R3              56k             R-EU_M0805      M0805        RESISTOR, European symbol           
+R4              10k             R-EU_M0805      M0805        RESISTOR, European symbol           
+R5              56k             R-EU_M0805      M0805        RESISTOR, European symbol           
+R6              1M              R-EU_M0805      M0805        RESISTOR, European symbol           
+R7              1M              R-EU_M0805      M0805        RESISTOR, European symbol           
+R8              1M              R-EU_M0805      M0805        RESISTOR, European symbol           
+R9              1M              R-EU_M0805      M0805        RESISTOR, European symbol           
+R10             100k            R-EU_M0805      M0805        RESISTOR, European symbol           
+R11             47k             R-EU_M0805      M0805        RESISTOR, European symbol           
+R12             1M              R-EU_M0805      M0805        RESISTOR, European symbol           
+R13             1M              R-EU_M0805      M0805        RESISTOR, European symbol           
+R14             11k             R-EU_M0805      M0805        RESISTOR, European symbol           
+R15             100k            R-EU_M0805      M0805        RESISTOR, European symbol           
+R16             1M              R-EU_M0805      M0805        RESISTOR, European symbol           
+R17             1M              R-EU_M0805      M0805        RESISTOR, European symbol           
+R18             47k             R-EU_M0805      M0805        RESISTOR, European symbol           
+R19             100k            R-EU_M0805      M0805        RESISTOR, European symbol           
+R20             100k            R-EU_M0805      M0805        RESISTOR, European symbol           
+R21             100k            R-EU_M0805      M0805        RESISTOR, European symbol           
+R22             22k             R-EU_M0805      M0805        RESISTOR, European symbol           
+R23             11k             R-EU_M0805      M0805        RESISTOR, European symbol           
+R24             100k            R-EU_M0805      M0805        RESISTOR, European symbol           
+R25             47k             R-EU_M0805      M0805        RESISTOR, European symbol           
+R27             100k            R-EU_M0805      M0805        RESISTOR, European symbol           
+R28             100k            R-EU_M0805      M0805        RESISTOR, European symbol           
+R29             10k             R-EU_M0805      M0805        RESISTOR, European symbol           
+R34             30k             R-EU_M0805      M0805        RESISTOR, European symbol           
+R35             18k             R-EU_M0805      M0805        RESISTOR, European symbol           
+R36             10k             R-EU_M0805      M0805        RESISTOR, European symbol           
+R37             10k             R-EU_M0805      M0805        RESISTOR, European symbol           
+R38             1M              R-EU_M0805      M0805        RESISTOR, European symbol           
+R39             100k            R-EU_M0805      M0805        RESISTOR, European symbol           
+R42             10k             R-EU_M0805      M0805        RESISTOR, European symbol           
+R43             56k             R-EU_M0805      M0805        RESISTOR, European symbol           
+R44             100k            R-EU_M0805      M0805        RESISTOR, European symbol           
+R_FILTER_JPR                    JMP3            JMP3         Jumper 3-polig                      
+SPI_CLK                         JP3Q            JP3Q         JUMPER                              
+SW1             4052            5042_SO16_NEU   SO-16                                            
+SW2             4052            5042_SO16_NEU   SO-16                                            
+TP1             TPB2,54         TPB2,54         B2,54        Test pad                            
+TP2             TPB2,54         TPB2,54         B2,54        Test pad                            
+TP3             TPB2,54         TPB2,54         B2,54        Test pad                            
+TP4             TPB2,54         TPB2,54         B2,54        Test pad                            
+TP5             TPB2,54         TPB2,54         B2,54        Test pad                            
+TP6             TPB2,54         TPB2,54         B2,54        Test pad                            
+TP7             TPB2,54         TPB2,54         B2,54        Test pad                            
+TP8             TPB2,54         TPB2,54         B2,54        Test pad                            
+TP9             TPB2,54         TPB2,54         B2,54        Test pad                            
+TP10            TPB2,54         TPB2,54         B2,54        Test pad                            
+TP11            TPB2,54         TPB2,54         B2,54        Test pad                            
+TP12            TPB2,54         TPB2,54         B2,54        Test pad                            
+TP13            TPB2,54         TPB2,54         B2,54        Test pad                            
